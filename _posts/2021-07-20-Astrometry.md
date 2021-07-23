@@ -1,3 +1,17 @@
+---
+title: "Charting the Skies"
+description: "fhwufhbuewicv"
+layout: post
+toc: false
+comments: true
+hide: false
+search_exclude: true
+categories: [fastpages, jupyter]
+metadata_key1: metadata_value1
+metadata_key2: metadata_value2
+---
+
+
 # Charting the Skies
 ### Shanmugha Balan
 

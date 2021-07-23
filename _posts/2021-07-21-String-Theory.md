@@ -1,3 +1,15 @@
+---
+title: "Journey Through Quantum Universe and the “Stringy” String Theory"
+description: "Awesome description"
+layout: post
+toc: false
+comments: true
+#image: images/some_folder/your_image.png
+hide: false
+search_exclude: true
+categories: [fastpages, jupyter]
+---
+
 # Journey Through Quantum Universe and the “Stringy” String Theory
 
 ### Namit Shrivastava
