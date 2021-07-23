@@ -9,7 +9,7 @@
 https://trac-bits-pilani.github.io/blog/
 
 
-![TRAC Logo](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/images/trac-logo-white-wobg.png)
+![TRAC Logo](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/images/trac-logo-white-wo-bg.png)
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
