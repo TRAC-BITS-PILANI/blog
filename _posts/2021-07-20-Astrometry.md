@@ -1,19 +1,13 @@
 ---
 title: "Charting the Skies"
-description: "fhwufhbuewicv"
+description: "Shanmugha Balan"
 layout: post
 toc: false
 comments: true
 hide: false
 search_exclude: true
-categories: [fastpages, jupyter]
-metadata_key1: metadata_value1
-metadata_key2: metadata_value2
+categories: [Astrometry, Ptolemy, Celestial, Coordinates, Parallax]
 ---
-
-
-# Charting the Skies
-### Shanmugha Balan
 
 Humanity’s obsession to archive everything they know has existed from time immemorial. When it comes to the skies, humanity has been making star catalogs dating back to 190 BCE. The Greeks played a large role in ancient astronomy. One of the oldest catalogs dates back to Timocharis and Aristillus, which Hipparchus used to determine that the Earth was actually precessing and not just spinning. Hipparchus went ahead and cataloged around 800 stars, to which his successor, Ptolemy, added more and published a very accurate list in his treatise, the Almagest.
 

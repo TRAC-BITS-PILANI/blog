@@ -1,19 +1,14 @@
 ---
 title: "Journey Through Quantum Universe and the “Stringy” String Theory"
-description: "Awesome description"
+description: "Namit Shrivastava"
 layout: post
 toc: false
 comments: true
 #image: images/some_folder/your_image.png
 hide: false
 search_exclude: true
-categories: [fastpages, jupyter]
+categories: [String Theory, Quantum Gravity, Black Holes, Quantum Gravity]
 ---
-
-# Journey Through Quantum Universe and the “Stringy” String Theory
-
-### Namit Shrivastava
-
 
 If movies and shows like Antman, Interstellar, and Quantum Leap intrigue you about dimensions, quantum world, and dark matter, then you will be in for a ride.
 
