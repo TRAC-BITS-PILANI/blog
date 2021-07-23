@@ -13,19 +13,19 @@ Humanity’s obsession to archive everything they know has existed from time imm
 
 |![Ptolemy's Amalgest](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/1_astrometry/ptolemy.png) | 
 |:--:| 
-| *Ptolemy's Amalgest* |
+| *Ptolemy's Amalgest[^1]* |
 
 Fast forward to the next largest leap in astrometry, to the 15th century. The Danish nobleman, Tyge Ottesen Brahe, more commonly known as Tycho Brahe, looked at the skies. He made exact measurements of many objects in the sky, all of which he meticulously listed. This is even more stunning when you consider telescopes have still not been invented. Tycho Brahe was the last great astronomer to work without a telescope. He did, however, use a rather quaint instrument called a mural quadrant. It is essentially a large half protractor, which enabled him to mark out positions of celestial objects.
 
 |![A Mural Quadrant](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/1_astrometry/quadrant.png) | 
 |:--:| 
-| *A Mural Quadrant* |
+| *A Mural Quadrant[^1]* |
 
 Let’s take a short interlude and discuss how we mark out positions in the sky. From our position on Earth, regardless of your exact position, we can see a hemisphere of the sky. Combined with the hemisphere on the opposite position on the Earth, we have the celestial sphere. Immediately, this suggests a coordinate system to chart out the skies. We can modify the spherical coordinate system to fit our needs. We call this the equatorial coordinate system. We can not fix an axis, because as we previously saw, the Earth precesses. So we take a standard date, known as an epoch, to set the axis’s position at that date. We are currently in the J2000.0 epoch. After fixing a reference axis, it is straightforward to mark out objects. The right ascension is the celestial equivalent of geographical longitude, while the declination is the equivalent of geographical latitude. The GIF below shows how it works.
 
 |![An explanation for Right Ascension and Declination](https://upload.wikimedia.org/wikipedia/commons/6/66/Ra_and_dec_demo_animation_small.gif)|
 |:--:| 
-| *An explanation for Right Ascension and Declination* |
+| *An explanation for Right Ascension and Declination[^1]* |
 
 Close to the turn of the 16th century, Hans Lippershey submitted a patent for a device that can be used “for seeing things far away as if they were nearby”. And it was this device that continues to be used to date, known as the telescope. Ratified in design by Galileo Galilei, Sir Issac Newton, and Laurent Cassegrain, this is the instrument that revolutionized observational astronomy. On the one hand, you have all this brilliant data. On the other, you have this very jealous apprentice who was thirsty for more. He felt his advance in society was being blocked by this powerful nobleman. A dose of mercury in his banquet supper and Brahe was no more. Kepler took all of Brahe’s data and proposed the famous laws of planetary motion.
 
@@ -33,7 +33,7 @@ Let’s take another interlude to explain the concept of parallax. Parallax is t
 
 |![An intuition for Parallax](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/1_astrometry/parallax.png) | 
 |:--:| 
-| *An intuition for Parallax* |
+| *An intuition for Parallax[^1]* |
 
 Parallax measurements were tough before you made this leap in understanding. And indeed, the first attempt to measure stellar parallaxes in 1729 by James Bradley failed. He did discover two important things - that the Earth rotates in the other Euler angle as well - so it nutates in addition to precession and spin. The other was that telescopes suffer from aberration, and corrections will need to be made to observations to account for this. In 1807, Friedrich Bessel refined Bradley’s catalog of around 3000 stars and made the first successful measurement of stellar parallax.
 
