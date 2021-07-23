@@ -4,9 +4,9 @@ description: "Namit Shrivastava"
 layout: post
 toc: false
 comments: true
-#image: images/some_folder/your_image.png
+image: images/blog_covers/2_string_theory.jpg
 hide: false
-search_exclude: true
+search_exclude: false
 categories: [String Theory, Quantum Gravity, Black Holes, Quantum Gravity]
 ---
 

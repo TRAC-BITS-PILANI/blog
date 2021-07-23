@@ -4,18 +4,19 @@ description: "Shanmugha Balan"
 layout: post
 toc: false
 comments: true
+image: images/blog_covers/1_star_catalog.jpg
 hide: false
-search_exclude: true
+search_exclude: false
 categories: [Astrometry, Ptolemy, Celestial, Coordinates, Parallax]
 ---
 
-Humanity’s obsession to archive everything they know has existed from time immemorial. When it comes to the skies, humanity has been making star catalogs dating back to 190 BCE. The Greeks played a large role in ancient astronomy. One of the oldest catalogs dates back to Timocharis and Aristillus, which Hipparchus used to determine that the Earth was actually precessing and not just spinning. Hipparchus went ahead and cataloged around 800 stars, to which his successor, Ptolemy, added more and published a very accurate list in his treatise, the Almagest.
+Humanity’s obsession to archive everything they know has existed from time immemorial. When it comes to the skies, humanity has been making star catalogs dating back to 190 BCE. The birth of astrometry as a science dates back to this era. Astrometry, put very simply, deals with the kinematics of celestial bodies. The Greeks played a large role in ancient astrometry. Their catalogs listed out coordinates and motions of some of the brighter objects in the sky. One of the oldest catalogs dates back to Timocharis and Aristillus, which Hipparchus used to determine that the Earth was not just spinning but also precessing. Hipparchus went ahead and cataloged around 800 stars, to which his successor, Ptolemy, added more and published a very accurate list in his treatise, the Almagest.
 
 |![Ptolemy's Amalgest](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/1_astrometry/ptolemy.png) | 
 |:--:| 
 | *Ptolemy's Amalgest[^1]* |
 
-Fast forward to the next largest leap in astrometry, to the 15th century. The Danish nobleman, Tyge Ottesen Brahe, more commonly known as Tycho Brahe, looked at the skies. He made exact measurements of many objects in the sky, all of which he meticulously listed. This is even more stunning when you consider telescopes have still not been invented. Tycho Brahe was the last great astronomer to work without a telescope. He did, however, use a rather quaint instrument called a mural quadrant. It is essentially a large half protractor, which enabled him to mark out positions of celestial objects.
+Fast forward to the next largest leap in astrometry, to the 15th century. The Danish nobleman, Tyge Ottesen Brahe, more commonly known as Tycho Brahe, was one of the best observational astronomers of this time. He made exact measurements of many objects in the sky, all of which he meticulously listed. This is even more stunning when you consider telescopes have still not been invented. Tycho Brahe was the last great astronomer to work without a telescope. He did, however, use a rather quaint instrument called a mural quadrant. It is essentially a large half protractor, which enabled him to mark out positions of celestial objects very accuratelys. On the one hand, you have all this brilliant data. On the other, you have this very jealous apprentice who was thirsty for more. He felt his advance in society was being blocked by this powerful nobleman. A dose of mercury in his banquet supper and Brahe was no more. Kepler took all of Brahe’s data and proposed the famous laws of planetary motion.
 
 |![A Mural Quadrant](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/1_astrometry/quadrant.png) | 
 |:--:| 
@@ -27,7 +28,7 @@ Let’s take a short interlude and discuss how we mark out positions in the sky.
 |:--:| 
 | *An explanation for Right Ascension and Declination[^1]* |
 
-Close to the turn of the 16th century, Hans Lippershey submitted a patent for a device that can be used “for seeing things far away as if they were nearby”. And it was this device that continues to be used to date, known as the telescope. Ratified in design by Galileo Galilei, Sir Issac Newton, and Laurent Cassegrain, this is the instrument that revolutionized observational astronomy. On the one hand, you have all this brilliant data. On the other, you have this very jealous apprentice who was thirsty for more. He felt his advance in society was being blocked by this powerful nobleman. A dose of mercury in his banquet supper and Brahe was no more. Kepler took all of Brahe’s data and proposed the famous laws of planetary motion.
+Close to the turn of the 16th century, Hans Lippershey submitted a patent for a device that can be used “for seeing things far away as if they were nearby”. And it was this device that continues to be used to date, known as the telescope. Ratified in design by Galileo Galilei, Sir Issac Newton, and Laurent Cassegrain, this is the instrument that revolutionized observational astronomy. And it was not just the visible spectrum. When other types of electromagnetic radiation were discovered, it didn't take too long to see that there were extraterrestrial sources of these radiation as well. Soon came a range of telescopes covering the entire spectrum, from the lengths of the radio and infrared all the way to X-ray and even gamma ray telescopes.
 
 Let’s take another interlude to explain the concept of parallax. Parallax is the difference in the apparent position of an object viewed along two different lines of sight. A quick demonstration is when you close either eye and notice that the images are different. Different orbital positions of the Earth cause some confusion in measurements, but it can very simply be resolved when you factor in parallax. Parallax is so vital to our understanding of the motion of objects in the sky; we often take measurements of celestial objects when we are at opposite ends of the Earth’s orbit to determine the body’s distance along with its position.
 
