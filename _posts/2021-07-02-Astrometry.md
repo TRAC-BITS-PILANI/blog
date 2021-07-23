@@ -7,7 +7,7 @@ comments: true
 image: images/blog_covers/1_star_catalog.jpg
 hide: false
 search_exclude: false
-categories: [Astrometry, Ptolemy, Celestial, Coordinates, Parallax]
+categories: [Astrometry, Coordinates, Parallax]
 ---
 
 Humanity’s obsession to archive everything they know has existed from time immemorial. When it comes to the skies, humanity has been making star catalogs dating back to 190 BCE. The birth of astrometry as a science dates back to this era. Astrometry, put very simply, deals with the kinematics of celestial bodies. The Greeks played a large role in ancient astrometry. Their catalogs listed out coordinates and motions of some of the brighter objects in the sky. One of the oldest catalogs dates back to Timocharis and Aristillus, which Hipparchus used to determine that the Earth was not just spinning but also precessing. Hipparchus went ahead and cataloged around 800 stars, to which his successor, Ptolemy, added more and published a very accurate list in his treatise, the Almagest.
