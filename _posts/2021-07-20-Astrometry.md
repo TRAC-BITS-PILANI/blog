@@ -11,13 +11,13 @@ categories: [Astrometry, Ptolemy, Celestial, Coordinates, Parallax]
 
 Humanity’s obsession to archive everything they know has existed from time immemorial. When it comes to the skies, humanity has been making star catalogs dating back to 190 BCE. The Greeks played a large role in ancient astronomy. One of the oldest catalogs dates back to Timocharis and Aristillus, which Hipparchus used to determine that the Earth was actually precessing and not just spinning. Hipparchus went ahead and cataloged around 800 stars, to which his successor, Ptolemy, added more and published a very accurate list in his treatise, the Almagest.
 
-|![Ptolemy's Amalgest](assets/blog/1_astrometry/ptolemy.png) | 
+|![Ptolemy's Amalgest](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/1_astrometry/ptolemy.png) | 
 |:--:| 
 | *Ptolemy's Amalgest* |
 
 Fast forward to the next largest leap in astrometry, to the 15th century. The Danish nobleman, Tyge Ottesen Brahe, more commonly known as Tycho Brahe, looked at the skies. He made exact measurements of many objects in the sky, all of which he meticulously listed. This is even more stunning when you consider telescopes have still not been invented. Tycho Brahe was the last great astronomer to work without a telescope. He did, however, use a rather quaint instrument called a mural quadrant. It is essentially a large half protractor, which enabled him to mark out positions of celestial objects.
 
-|![A Mural Quadrant](assets/blog/1_astrometry/quadrant.png) | 
+|![A Mural Quadrant](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/1_astrometry/quadrant.png) | 
 |:--:| 
 | *A Mural Quadrant* |
 
@@ -31,7 +31,7 @@ Close to the turn of the 16th century, Hans Lippershey submitted a patent for a 
 
 Let’s take another interlude to explain the concept of parallax. Parallax is the difference in the apparent position of an object viewed along two different lines of sight. A quick demonstration is when you close either eye and notice that the images are different. Different orbital positions of the Earth cause some confusion in measurements, but it can very simply be resolved when you factor in parallax. Parallax is so vital to our understanding of the motion of objects in the sky; we often take measurements of celestial objects when we are at opposite ends of the Earth’s orbit to determine the body’s distance along with its position.
 
-|![An intuition for Parallax](assets/blog/1_astrometry/parallax.png) | 
+|![An intuition for Parallax](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/1_astrometry/parallax.png) | 
 |:--:| 
 | *An intuition for Parallax* |
 
