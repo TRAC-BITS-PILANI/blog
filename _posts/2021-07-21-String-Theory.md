@@ -22,7 +22,7 @@ Ever wondered why it seems strange that quantum particles behave the way they do
 When we look beyond the earth to the broader universe and consider a very large phenomenon, we can't put quantum physics aside. Although gravity is the most significant force on the astronomical scale, the other three fundamental forces have essential roles to play, whether in the nuclear reactions of a star or the electromagnetic pulses that blast out from solar flares. Quantum effects also crop up in several theoretical concepts, such as black holes and the big bang.
 
 
-|![A quantum effect](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/2_string_theory/effect.png) | 
+|![A quantum effect](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/2_string_theory/effect.jpg) | 
 |:--:| 
 | *A quantum effect (a conceptual visualization), [Source](https://scinotions.com/wp-content/uploads/2014/03/parallel-universes-560x416.jpg)* |
 
@@ -44,7 +44,7 @@ This results in a singularity. Also because general relativity shows that matter
 Although nothing gets out of black holes, they still give off radiation. Any nearby material that is pulled into them will accelerate, emitting photons as they do so. And there will be a glow from a process known as Hawking radiation, in which pairs of quantum particles pop into existence as a result of the uncertainty principle. The event horizon splits them, one of which recedes into the black hole, and the other is the radiation which we can pick up.
 
 
-|![A black hole (illustrative concept)](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/2_string_theory/notherone.png) | 
+|![A black hole (illustrative concept)](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/2_string_theory/notherone.jpg) | 
 |:--:| 
 | *A black hole (illustrative concept), [Source](https://cdn.images.express.co.uk/img/dynamic/151/590x/Black-hole-news-ghost-galaxy-supermassive-black-hole-birth-1309237.jpg?r=1594716098941)* |
 
@@ -66,7 +66,7 @@ Envisaging a fourth spatial dimension is not too difficult. We can imagine the p
 But to get around string theory as mentioned above (containing nine dimensions), the unseen dimensions are assumed to be curled up in such tight loops that we cannot detect them.
 
 
-|![Imagining the string theory(spatial dimension)](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/2_string_theory/string.png) | 
+|![Imagining the string theory(spatial dimension)](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/2_string_theory/string.jpg) | 
 |:--:| 
 | *Imagining the string theory(spatial dimension), [Source](https://www.hubofconsciousness.com/wp-content/uploads/2019/11/Exploring-higher-dimensions-1.jpg)* |
 
@@ -80,7 +80,7 @@ In M-theory, the basic unit, rather than a string, is a brane, with any number o
 Talking more about branes: in M-theory, our universe can be represented by a membrane (brane) floating in 10D space. An alternative to the conventional big bang theory called “Ekpyrotic theory” suggests that the universe began expanding when two of these branes collided.
 
 
-|![A schematic diagram of the M-theory](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/2_string_theory/m.png) | 
+|![A schematic diagram of the M-theory](https://raw.githubusercontent.com/TRAC-BITS-PILANI/blog/master/assets/blog/2_string_theory/m.jpg) | 
 |:--:| 
 | *A schematic diagram of the M-theory, [Source](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/M-Theory_Square_1920.jpg)* |
 
