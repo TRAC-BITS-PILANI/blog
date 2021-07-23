@@ -15,7 +15,7 @@ Ever wondered why it seems strange that quantum particles behave the way they do
 When we look beyond the earth to the broader universe and consider a very large phenomenon, we can't put quantum physics aside. Although gravity is the most significant force on the astronomical scale, the other three fundamental forces have essential roles to play, whether in the nuclear reactions of a star or the electromagnetic pulses that blast out from solar flares. Quantum effects also crop up in several theoretical concepts, such as black holes and the big bang.
 
 
-|![A quantum effect](/assets/blog/2_string_theory/effect.png) | 
+|![A quantum effect](assets/blog/2_string_theory/effect.png) | 
 |:--:| 
 | *A quantum effect (a conceptual visualization), [Source](https://scinotions.com/wp-content/uploads/2014/03/parallel-universes-560x416.jpg)* |
 
@@ -27,7 +27,7 @@ Stars naturally collapse under the pull of gravity- it’s how they were formed;
 This results in a singularity. Also because general relativity shows that matter produces a warp in space-time that results in the effects of gravity, get close enough to a black hole and the warping is so severe that nothing, not even light, can escape. The sphere within which this occurs is known as the “event horizon”.
 
 
-|![A black hole and its components](/assets/blog/2_string_theory/blackhole.png) | 
+|![A black hole and its components](assets/blog/2_string_theory/blackhole.png) | 
 |:--:| 
 | *A black hole and its components, [Source](https://chandra.harvard.edu/blackhole/images/anatomy.png)* |
 
@@ -37,7 +37,7 @@ This results in a singularity. Also because general relativity shows that matter
 Although nothing gets out of black holes, they still give off radiation. Any nearby material that is pulled into them will accelerate, emitting photons as they do so. And there will be a glow from a process known as Hawking radiation, in which pairs of quantum particles pop into existence as a result of the uncertainty principle. The event horizon splits them, one of which recedes into the black hole, and the other is the radiation which we can pick up.
 
 
-|![A black hole (illustrative concept)](/assets/blog/2_string_theory/notherone.png) | 
+|![A black hole (illustrative concept)](assets/blog/2_string_theory/notherone.png) | 
 |:--:| 
 | *A black hole (illustrative concept), [Source](https://cdn.images.express.co.uk/img/dynamic/151/590x/Black-hole-news-ghost-galaxy-supermassive-black-hole-birth-1309237.jpg?r=1594716098941)* |
 
@@ -59,7 +59,7 @@ Envisaging a fourth spatial dimension is not too difficult. We can imagine the p
 But to get around string theory as mentioned above (containing nine dimensions), the unseen dimensions are assumed to be curled up in such tight loops that we cannot detect them.
 
 
-|![Imagining the string theory(spatial dimension)](/assets/blog/2_string_theory/string.png) | 
+|![Imagining the string theory(spatial dimension)](assets/blog/2_string_theory/string.png) | 
 |:--:| 
 | *Imagining the string theory(spatial dimension), [Source](https://www.hubofconsciousness.com/wp-content/uploads/2019/11/Exploring-higher-dimensions-1.jpg)* |
 
@@ -73,7 +73,7 @@ In M-theory, the basic unit, rather than a string, is a brane, with any number o
 Talking more about branes: in M-theory, our universe can be represented by a membrane (brane) floating in 10D space. An alternative to the conventional big bang theory called “Ekpyrotic theory” suggests that the universe began expanding when two of these branes collided.
 
 
-|![A schematic diagram of the M-theory](/assets/blog/2_string_theory/m.png) | 
+|![A schematic diagram of the M-theory](assets/blog/2_string_theory/m.png) | 
 |:--:| 
 | *A schematic diagram of the M-theory, [Source](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/12/M-Theory_Square_1920.jpg)* |
 
@@ -89,7 +89,7 @@ Let's take a sheet of rubber as an analogy for space-time in general relativity,
 But the weave of loops is space-time (or, more precisely, space, because time is an added extra in this theory!). Empty space would still have loops, while a region with no loops would contain no space.
 
 
-|![Conceptual visualization of Loop Quantum gravity](/assets/blog/2_string_theory/gravity.png) | 
+|![Conceptual visualization of Loop Quantum gravity](assets/blog/2_string_theory/gravity.png) | 
 |:--:| 
 | *Conceptual visualization of Loop Quantum gravity, [Source](https://lh3.googleusercontent.com/-X48FWDRisnQ/XBaRY8jpUXI/AAAAAAAAAcc/AoFx0p1rV-cjaFk5ZjLDwpbYCw4zRC2OQCHMYCw/w1200-h630-p-k-no-nu/fisica49_01.jpg)* |
 
