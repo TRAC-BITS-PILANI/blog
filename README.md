@@ -32,12 +32,12 @@ Make sure to include the following in your header with the appropriate columns f
 ```
 ---
 title: "{A catchy title for your article}"
-description: "{The name of the author}"
+description: "{Description of the article}"
+author: "{Authors}"
 layout: post
 toc: false
 comments: true
 image: images/blog_covers/{a cover image for your article (optional)}
-hide: false
 search_exclude: false
 categories: [{Any}, {Tags}]
 ---
@@ -51,6 +51,27 @@ If you are using any images in your article, please use the convention listed he
 | *A caption with a link to the source either here or in a footnote* |
 ```
 
-When this is done, place the images inside `/assets/blog/{article_number}_{underscore separated short title}`. Finally, name your file `YYYY-MM-DD-*.md`, with the date being the date in which you send your PR and place the file inside the `/_posts/` directory.
+When this is done, place the images inside `/assets/blog/{article_number}_{underscore separated short title}` (or link them directly from source if possible). Finally, name your file `YYYY-MM-DD-*.md`, with the date being the date in which you send your PR. Every word within the `*` must be hyphen separated. Place the file inside the `/_posts/` directory and send in your PR, we'll review it as quick as we can and publish your article!
 
-After you're done with our eccentricities, please send in your PR, we'll review it as quick as we can and publish your article!
+### Articles in Jupyter
+
+A Jupyter Notebook should also have a header like markdown articles. The first cell in your notebook should be a markdown cell with the following contents:
+
+```
+# {Title of the article}\n
+> {Description}\n
+
+- author: {Authors}\n
+- toc: true\n
+- badges: true\n
+- comments: true\n
+- image: images/blog_covers/{a cover image for your article (optional)}\n
+- search_exclude: false\n
+- categories: [{Any}, {Tags}]
+```
+
+Images within the article must also follow the same format as markdown. Again, name the file with the format `YYYY-MM-DD-*.ipynb`, with the same format as with markdown. When you're done with the eccentricities, please send in your PR, we'll publish your article after a review!
+
+### Articles in Word
+
+Please don't. If you do, here's a link to a [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) or use this [blog post](https://www.fast.ai/2020/01/18/gitblog/) from fast.ai to do the necessary conversions. Word is not recommended because of configuration issues. We don't have a lot of control over the front matter of the article and it will be converted to markdown at some point during processing anyway. So please do consider writing in markdown directly.
