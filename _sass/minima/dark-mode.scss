@@ -19,6 +19,10 @@ a:hover {
     color:$high-emph !important;
 }
 
+div.social-links > a, body > footer, .site-header {
+    border : 0;
+}
+
 .site-title, .site-title:visited, .site-nav, .page-link {
     color: $high-emph !important;
 }

@@ -40,7 +40,7 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     #twitter: fastdotai
-    linkedin: radioastro
+    linkedin: https://www.linkedin.com/company/radioastro/mycompany/
     github: TRAC-BITS-PILANI
 
 # Set this to true to get LaTeX math equation support
