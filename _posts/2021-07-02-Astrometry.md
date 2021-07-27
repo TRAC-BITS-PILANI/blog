@@ -1,6 +1,7 @@
 ---
 title: "Charting the Skies"
-description: "Shanmugha Balan"
+author: "Shanmugha Balan"
+description: "Our sky is constantly changing, indicating the motion of planets and stars. The study of where they're located and how they move around is called astrometry."
 layout: post
 toc: false
 comments: true

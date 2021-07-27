@@ -1,6 +1,7 @@
 ---
 title: "Journey Through Quantum Universe and the “Stringy” String Theory"
-description: "Namit Shrivastava"
+author: "Namit Shrivastava"
+description: "Ever since Maxwell unified electricity and magnetism, humanity has been attempting to find a single grand unified theory for everything. String Theory is one of our best stabs at this unified theory."
 layout: post
 toc: false
 comments: true
