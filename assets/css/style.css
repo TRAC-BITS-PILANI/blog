@@ -435,7 +435,7 @@ a { color: #4bbaff !important; }
 
 a:hover { color: rgba(255, 255, 255, 0.87) !important; }
 
-div.social-links > a, body > footer, .site-header { border: 0; }
+.social-media-list li a, .pagination li a, .site-footer, .site-header { border: 0; }
 
 .site-title, .site-title:visited, .site-nav, .page-link { color: rgba(255, 255, 255, 0.87) !important; }
 
