@@ -97,7 +97,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      6 min read
+      7 min read
     
 </span></p>
 
@@ -142,7 +142,7 @@ window.onload = wrap_img;
   </tbody>
 </table>
 
-<p>The roaring success of Apollo 11 and the relatively quieter success of Apollo 12 was the disastrous Apollo 13 mission. In an absolutely nerve-racking mission, the lunar landing was aborted after an explosion in an oxygen tank depleted the available resources. With limited water and power and low heating, the crew transferred all remaining resources into the lunar module and used it to re-enter Earth. Despite being an arguably more daring rescue, it all came down to a relatively tame problem - faulty wiring. NASA implemented design changes and added backup resources to ensure better safety for their next mission, along with some software updates. Eager to prove that they still had their touch, they launched the Apollo 14 mission with high hopes. Chosen to lead the mission was veteran astronaut Alan Shepard Jr. At 47 years of age and fresh from ear surgery, he was keen to lead the mission and to see the crew all the way.</p>
+<p>The roaring success of Apollo 11 and the relatively quieter success of Apollo 12 was followed by the disastrous Apollo 13 mission. In an absolutely nerve-racking mission, the lunar landing was aborted after an explosion in an oxygen tank depleted the available resources. With limited water and power and low heating, the crew transferred all remaining resources into the lunar module and used it to re-enter Earth. Despite being an arguably more daring rescue, it all came down to a relatively tame problem - faulty wiring. NASA implemented design changes and added backup resources to ensure better safety for their next mission, along with some software updates. Eager to prove that they still had their touch, they launched the Apollo 14 mission with high hopes. Chosen to lead the mission was veteran astronaut Alan Shepard Jr. At 47 years of age and fresh from ear surgery, he was keen to lead the mission and to see the crew all the way.</p>
 
 <p>Soon after the trans-lunar injection, a problem cropped up, jeopardizing the entire mission. The command module, <em>Kitty Hawk</em> could not dock with the lunar module, <em>Antares</em>. After repeated efforts from the astronauts, they finally fixed the mechanical issue and shot it off to the Selene. However, four hours before the landing, there was a new problem. The consoles at Mission Control indicated that the abort button had been pressed. They radioed back to the module, which replied in the negative - no one had pushed the button. To make sure that the button was pressed from the other end as well, Houston radioed the crew to pull up the display of the I/O channel. They keyed in <code class="language-plaintext highlighter-rouge">VERB 11; NOUN 10; 30</code> on the display keyboard (DSKY), which on translating from computer to humanspeak would mean “show me the octal data; from the I/O channel; for the status bits”. Among the status bits, the final bit represented <em>Abort with descent stage</em> and the value read 1.</p>
 
@@ -154,7 +154,7 @@ window.onload = wrap_img;
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center"><em>The DSKY for the Apollo Guidance Computer[^1]</em></td>
+      <td style="text-align: center"><em>The DSKY for the Apollo Guidance Computer<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></em></td>
     </tr>
   </tbody>
 </table>
@@ -169,7 +169,7 @@ window.onload = wrap_img;
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center"><em>The team at Draper Lab[^2]</em></td>
+      <td style="text-align: center"><em>The team at Draper Lab<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup></em></td>
     </tr>
   </tbody>
 </table>
@@ -189,7 +189,7 @@ window.onload = wrap_img;
 
 <p><code class="language-plaintext highlighter-rouge">VERB 21; NOUN 1; 1010; 107</code></p>
 
-<p>The first bit is a command to load the data into the registers followed by the address of the <code class="language-plaintext highlighter-rouge">MODREG</code> variable. Finally, 107, 71 in octal, tells the system to put P71 up on the display board. Now, Shepard increased the manual throttle to full power. Next, the crew had to key in:</p>
+<p>The first bit is a command to load the data into the registers followed by the address of the <code class="language-plaintext highlighter-rouge">MODREG</code> variable. Finally, 107 (71 in octal), tells the system to put P71 up on the display board. P71, which also controlled the abort procedures was put up so that P70 could be used in case an actual abort became necessary. Now, Shepard increased the manual throttle to full power. Next, the crew had to key in:</p>
 
 <p><code class="language-plaintext highlighter-rouge">VERB 25; NOUN 7; 101; 200; 1</code></p>
 
@@ -207,10 +207,21 @@ window.onload = wrap_img;
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center"><em>Touchdown! Source: NASAz</em></td>
+      <td style="text-align: center"><em>Touchdown! Source: NASA</em></td>
     </tr>
   </tbody>
 </table>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>https://arstechnica.com/ <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>https://wehackthemoon.com <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
   </div><!-- from https://github.com/utterance/utterances -->
 <script src="https://utteranc.es/client.js"
