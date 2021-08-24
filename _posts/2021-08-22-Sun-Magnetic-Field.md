@@ -13,7 +13,7 @@ categories: [Electromagnetism, Heliophysics, Physics]
 
 > *Our Sun is just like other billions of trillions of stars in the universe, but it holds a special place to all of humanity and life, as we know it. It has been providing us with heat and light for about 4.6 billion years, and will continue to do so for about another 5.5 billion years. The sun is something we have worshiped for many millenium. The sun is a star that we have studied the most, and yet know so little of it.* 
 
-|![Cover image](https://trac-bits-pilani.github.io/blog/images/blog_covers/6_sun_magnetic_field.jpg) | 
+|![Cover image](https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/min-max.png?itok=Imzgprk2) |
 |:--:| 
 | *Source: [NASA]* |
 
@@ -46,7 +46,7 @@ Seeing at a larger scale, the Sun seems like a magnetic field source. The Sun’
 1. Magnetohydrodynamic influence of the solar wind.
 2. Vastness of space in which the magnetic field is being emitted into.
 
-|![Heliospheric Magnetic Field](https://trac-bits-pilani.github.io/blog/assets/blog/6_sun_magnetic_field) | 
+|![Heliospheric Magnetic Field](https://media.springernature.com/full/springer-static/image/art%3A10.12942%2Flrsp-2013-5/MediaObjects/41116_2015_9143_Fig1.jpg?as=webp) | 
 |:--:| 
 | *Heliospheric Magnetic Field[^5]* |
 
@@ -70,7 +70,7 @@ There are many probes using which we collect the space magnetic field data near 
 
 [^4]: Image from [Solar Terrestrial Center of Excellence](https://www.stce.be/news/211/welcome.html) webpage
 
-[^5]: Image by [Stanford's Wilcox Solar Observatory](http://wso.stanford.edu/)
+[^5]: Image by [Stanford's Wilcox Solar Observatory](http://wso.stanford.edu/) and [Springer](https://link.springer.com/article/10.12942/lrsp-2013-5)
 
 [^6]: Image by [National Solar Observatory](https://www.nasa.gov/mission_pages/sunearth/missions/index.html)
 
