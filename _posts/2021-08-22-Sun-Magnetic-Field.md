@@ -13,13 +13,13 @@ categories: [Electromagnetism, Heliophysics, Physics]
 
 > *Our Sun is just like other billions of trillions of stars in the universe, but it holds a special place to all of humanity and life, as we know it. It has been providing us with heat and light for about 4.6 billion years, and will continue to do so for about another 5.5 billion years. The sun is something we have worshiped for many millenium. The sun is a star that we have studied the most, and yet know so little of it.* 
 
-|![Cover image](https://trac-bits-pilani.github.io/blog/images/blog_covers/.6_sun_magnetic_field.jpg) | 
+|![Cover image](https://trac-bits-pilani.github.io/blog/images/blog_covers/6_sun_magnetic_field.jpg) | 
 |:--:| 
 | *Source: [NASA]* |
 
 The Sun is a really big rotating ball of burning gases mostly made up of hydrogen and helium, with little amounts of Carbon, Nitrogen and Oxygen. When the Sun was forming, giant blobs of hydrogen gas gradually collapsed into each other and made the gravity stronger more than ever. The increasing gravity created a pressure that compressed the hydrogen so much that the process of nuclear fusion began, in which two hydrogen atoms came so close so as to fuse the actual atoms together into something known as Helium. This nuclear fusion process releases so much energy that it increases the pressure even more in the insides of the Sun, and thus slowly transforms hydrogen into helium. With the increased gravity, energy and heat, the nuclear fusion process proceeds to make even heavier atoms. Because the Sun is super hot and is an active region of nuclear fusion, the buoyancy is so high that sometimes the charged particles and hot gases escape from the Sun. Some are fortunate enough to leave it for eternity, but some are pulled back into the surface by the Sun’s enormous gravity. Visuals have shown patterns of bright and dark regions. The bright regions are where it is hot and dark lanes around them are where the gas is cooled off and starts getting pulled back inside the sun. The dynamic process continues and since the Sun is so bright, we can’t see anything more than those patterns even with very good lenses and sensors. But if we change the perspective a little we start to see very interesting features. 
 
-|![Dynamic surface of the Sun](hhttps://www.esa.int/var/esa/storage/images/esa_multimedia/images/2007/03/solar_surface_as_seen_by_hinode/9559924-4-eng-GB/Solar_surface_as_seen_by_Hinode_pillars.jpg) | 
+|![Dynamic surface of the Sun](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2007/03/solar_surface_as_seen_by_hinode/9559924-4-eng-GB/Solar_surface_as_seen_by_Hinode_pillars.jpg) | 
 |:--:| 
 | *Dynamic Surface of the Sun[^1]* |
 
