@@ -46,7 +46,7 @@ Seeing at a larger scale, the Sun seems like a magnetic field source. The Sun’
 1. Magnetohydrodynamic influence of the solar wind.
 2. Vastness of space in which the magnetic field is being emitted into.
 
-|![Heliospheric Magnetic Field](https://en.wikipedia.org/wiki/Interplanetary_magnetic_field#/media/File:Heliospheric-current-sheet.gif) | 
+|![Heliospheric Magnetic Field](https://trac-bits-pilani.github.io/blog/assets/blog/6_sun_magnetic_field) | 
 |:--:| 
 | *Heliospheric Magnetic Field[^5]* |
 
@@ -62,12 +62,16 @@ There are many probes using which we collect the space magnetic field data near 
 |:--:| 
 | *Heliophysics Missions[^7]* |
 
-
-
 [^1]: Image by [ESA](https://www.esa.int/ESA_Multimedia/Images/2007/03/Solar_surface_as_seen_by_Hinode)
+
 [^2]: Image by [NASA](https://spaceplace.nasa.gov/solar-activity/en/)
+
 [^3]: Image by [NASA](https://www.nasa.gov/feature/goddard/nasa-measuring-the-pulsating-aurora/)
+
 [^4]: Image from [Solar Terrestrial Center of Excellence](https://www.stce.be/news/211/welcome.html) webpage
+
 [^5]: Image by [Stanford's Wilcox Solar Observatory](http://wso.stanford.edu/)
+
 [^6]: Image by [National Solar Observatory](https://www.nasa.gov/mission_pages/sunearth/missions/index.html)
+
 [^7]: Image by [NASA](https://www.nasa.gov/mission_pages/sunearth/missions/index.html)
